@@ -1,0 +1,7 @@
+C:\Users\marip\C#\GerenciamentoProjetosWeb\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\marip\C#\GerenciamentoProjetosWeb\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+C:\Users\marip\C#\GerenciamentoProjetosWeb\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+C:\Users\marip\C#\GerenciamentoProjetosWeb\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\marip\C#\GerenciamentoProjetosWeb\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\marip\C#\GerenciamentoProjetosWeb\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\marip\C#\GerenciamentoProjetosWeb\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
